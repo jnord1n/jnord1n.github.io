@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "/"
 theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
@@ -6,8 +6,8 @@ contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Alexis Tacnet"
-title = "Cocoa Enhanced"
+author = "Johan Nordin"
+title = "Johan Nordin"
 disqusshortname = ""
 pluralizelisttitles = false
 
